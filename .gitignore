@@ -1,3 +1,4 @@
 myenv
 .idea
-mylist/__pycache__/
+todolist/__pycache__
+mylist/__pycache__
